@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://suemewoquu.q-ball.io/sitemap.xml
